@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: b4821a6cbb3f348428fc6ca1361105b8
+timeCreated: 1519745208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackTurningElbow
+    100002: Base
+    100004: Camera
+    100006: Cube.009
+    100008: Elbow01
+    100010: Elbow02
+    100012: FrontTurningElbow
+    100014: Ground
+    100016: Handle
+    100018: //RootNode
+    100020: Handle01
+    100022: Handle01_end
+    100024: Handle02
+    100026: Handle02_end
+    100028: Handle03
+    100030: Handle03_end
+    100032: Handle04
+    100034: Handle04_end
+    100036: HandleArmature
+    100038: KeyLight
+    100040: Pillars
+    100042: SecondaryLight
+    100044: Stairs01
+    100046: Stairs02
+    100048: Stairs03
+    100050: Straight01
+    100052: Target
+    400000: BackTurningElbow
+    400002: Base
+    400004: Camera
+    400006: Cube.009
+    400008: Elbow01
+    400010: Elbow02
+    400012: FrontTurningElbow
+    400014: Ground
+    400016: Handle
+    400018: //RootNode
+    400020: Handle01
+    400022: Handle01_end
+    400024: Handle02
+    400026: Handle02_end
+    400028: Handle03
+    400030: Handle03_end
+    400032: Handle04
+    400034: Handle04_end
+    400036: HandleArmature
+    400038: KeyLight
+    400040: Pillars
+    400042: SecondaryLight
+    400044: Stairs01
+    400046: Stairs02
+    400048: Stairs03
+    400050: Straight01
+    400052: Target
+    2000000: Camera
+    2100000: LightBlue
+    2100002: Blue
+    2100004: Grey
+    2100006: Water
+    2300000: BackTurningElbow
+    2300002: Cube.009
+    2300004: Elbow01
+    2300006: Elbow02
+    2300008: FrontTurningElbow
+    2300010: Ground
+    2300012: Pillars
+    2300014: Stairs01
+    2300016: Stairs02
+    2300018: Stairs03
+    2300020: Straight01
+    2300022: Target
+    3300000: BackTurningElbow
+    3300002: Cube.009
+    3300004: Elbow01
+    3300006: Elbow02
+    3300008: FrontTurningElbow
+    3300010: Ground
+    3300012: Pillars
+    3300014: Stairs01
+    3300016: Stairs02
+    3300018: Stairs03
+    3300020: Straight01
+    3300022: Target
+    4300000: Handle
+    4300002: BackTurningElbow
+    4300004: FrontTurningElbow
+    4300006: Ground
+    4300008: Cube.009
+    4300010: Target
+    4300012: Stairs01
+    4300014: Stairs02
+    4300016: Stairs03
+    4300018: Pillars
+    4300020: Elbow02
+    4300022: Straight01
+    4300024: Elbow01
+    7400000: Lock
+    7400002: Unlock
+    7400004: HandleArmature|Lock
+    7400006: HandleArmature|Unlock
+    7400008: LockedIdle
+    7400010: UnlockedIdle
+    9500000: //RootNode
+    10800000: KeyLight
+    10800002: SecondaryLight
+    13700000: Handle
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Lock
+      takeName: Lock
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Unlock
+      takeName: Unlock
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LockedIdle
+      takeName: LockedIdle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: UnlockedIdle
+      takeName: UnlockedIdle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
